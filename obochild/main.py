@@ -1,2 +1,2 @@
 import stdio as io
-io.stdout.output("Hello, World!");
+io.stdout.output("Hello, World!")
